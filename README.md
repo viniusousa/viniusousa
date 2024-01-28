@@ -1,12 +1,13 @@
 ### Hey, i'm Vinicius 🤙
 
-I'm currently doing an intership at Departament of Public Safety in the state of Alagoas from Brazil (SSP-AL)
+I am a full-stack developer with over two years of experience, with a focus on mobile development. I enjoy building digital experiences and overcoming challenges.
 
 <h3 align="left"> Frameworks and Libraries:</h3>
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
-<a href="https://reactnative.dev/" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native"/> </a>
-<a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="python"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""React Badge"/> </a>
+<a href="https://reactnative.dev/" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/> </a>
+<a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS Badge"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django Badge"/> </a>
 </p>
 
 <h3 align="left"> Programming Languages:</h3>
